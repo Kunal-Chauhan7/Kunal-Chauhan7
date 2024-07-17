@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Chauhan</h1>
-<h3 align="center">A Bachelor of Computer Science with expertise in web development (MERN stack), AI/ML engineering, Python, and Java. Proficient as an IoT engineer, data analyst, and researcher with a strong grasp of data structures and algorithms. Highly motivated and detail-oriented, eager to apply a diverse technical skill set to innovative projects and solutions. Committed to continuous learning and passionate about advancing technology.</h3>
+<h3 align="center">A Bachelor of Computer Science with expertise in web development (MERN stack), AI/ML engineering, Python, and Java.Proficient as an IoT engineer, data analyst, and researcher with a strong grasp of data structures and algorithms. Highly motivated and detail-oriented, eager to apply a diverse technical skill set to innovative projects and solutions. Committed to continuous learning and passionate about advancing technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-chauhan7&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-chauhan7" /> </p>
 
