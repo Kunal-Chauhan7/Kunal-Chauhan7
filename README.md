@@ -39,3 +39,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-chauhan7&show_icons=true&locale=en" alt="kunal-chauhan7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-chauhan7&" alt="kunal-chauhan7" /></p>
+
+<div style="
+  width: 100%; 
+  display: flex; 
+  justify-content: center; 
+  padding: 20px; 
+  background-color: #f0f0f0; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+">
+  <img 
+    src="https://media.giphy.com/media/kN79e1NI1QErC/giphy.gif" 
+    alt="Fun GIF" 
+    style="
+      max-width: 100%; 
+      height: auto; 
+      border-radius: 10px;
+    "
+  >
+</div>
