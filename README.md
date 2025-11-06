@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rose-three-51.vercel.app/](https://portfolio-rose-three-51.vercel.app/)
 
-- 📫 How to reach me **kunalchauhanlion@gmail.com**
+- 📫 How to reach me **kunalchauhan1623@gmail.com**
 
 - ⚡ Fun fact **I love anime and video games**
 
